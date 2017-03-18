@@ -1,0 +1,33 @@
+insert into usuario values(0,3,'M6yG/3zG0H60QYY8V8C4ew==','7XETBLeKSR4Fo9ZA/Wcy+w==','ZPuRwiqP8/8/PxVWKFs0uw==','FuVszYWzjPyYYDuk1vs1EQ==','XUGRcXw7IftBGXF+SalkRw==','A3gnAgLbjJ6inuUYaRHFiQ==','yqV7ADErPeDY4uCX0weuJw==','YXg4dSycvOOeazaCSZg+Aw==','8E2Ot2etqv1jleX+pvAAaw==','uPVXhVABlkOqawvZS5WXXg==','3+oxeLZXYj4nEvBDpKDRzw==','r/RF7Zz9qNTqdPZWAts4ig==','pXdFLhDOxJ3YV5k4RhWtEQ==','qFvTQvRbfb5Ic+C717GqNQ==',1,1);
+insert into usuario values(0,3,'ieGAI89Okz8NXGUlTd6oNg==','pBMS83SPXHf4S/R6NacHMg==','KetWbOUPy/GmVsrVm3c15g==','nF2eIxnYW90I18ZdrbZQ0g==','dJiFtG1EiorRlqu4K14boQ==','wpHE4lFpFeoEYIehRGtUlA==','yqV7ADErPeDY4uCX0weuJw==','nqUWm234dE8RPXYKX34E2A==','0y5Ps2T51Asd8YLKDa16pA==','KgQPeC3gb86OVC4mgkFLQQ==','Pf9vPb7qBfnvV7JHYeCmiQ==','frN6U6PX2098uA19JPf2SA==','aWsU7fqeNjoqzxth41Rt7A==','govkEZH3dcjeIsUWH4HfZw==',1,1);
+insert into usuario values(0,3,'pUnBlJVRIcf2lJF+RDa/Aw==','ZBAVU9R6apBDbrCKlebAFw==','3fYCkRiH+63muelFRnc0Gw==','z8B0wvs5SyPw2rVd1vYFRw==','pAqzcPR49bhllwlplv644w==','A3gnAgLbjJ6inuUYaRHFiQ==','yqV7ADErPeDY4uCX0weuJw==','uLakuTNKGURna0UqI2eblw==','o13CEh0YwNFFNdGIPuEgTA==','eScJ/oRUpoXK2OWBq8WZBA==','ZAhMGVlHO1xSRPMx59qH4Q==','6aKLPez2w18SQVPSygIxIQ==','SUJjOyt7ukkpqxdDFskCpQ==','7UF4G5QjCiybTC3EbR5qoQ==',1,1);
+insert into usuario values(0,1,'b+ANrN5aBdWVzReeC44dlg==','dfq6zPjRqMq69PZ9CLetuA==','V09HLWWkR25enzYwAHuHdQ==','EfmAzCbyxut8jfbtuHG8Rw==','gRHEzRdbjGR5Ctmrbb2hsg==','A3gnAgLbjJ6inuUYaRHFiQ==','yqV7ADErPeDY4uCX0weuJw==','csdXP+HqXnDmmdu20hB+Cw==','thjpMdMP0fARzAEi1dK4XA==','RIBAI+KI2zFfg2fc3hA66g==','6Q+0V/HEi6QlqeKFPDBpfg==','Iai0T6HKwf6TNGnspPWCRA==','RQzjD6LB0EmapRj2h1itsXA3tTnCYLMQbs+lo/u+UGE=','REetCLN7TOQ70HPJKmQ4Gg==',0,1);
+insert into usuario values(0,2,'si4do1PSyiXTs3XWJDQG2Q==','Mkdv9Hqqr4rVVhAJ4fNnOA==','a02lpcUQm1qiykZK8gUxJg==','C1wB4QGBYFVwBdrHWYJX3g==','CruhcGlr9cC7uRaHUNJdXw==','A3gnAgLbjJ6inuUYaRHFiQ==','yqV7ADErPeDY4uCX0weuJw==','pC8JDncEffXfea0ojUg0iQ==','czSUMoaC2dPm+pVr1SUuOA==','sFW1LGUUF89bxO8kgdcGsg==','MI0aT/+82MoCDVsE6d6L7A==','oZ0VMmoIMRTi40lLnGEZrA==','aHzRIWpvFereFC5lpD9MpdADSV8aLd07zJEs2pfTQwtx4wJnZ+KvMvefJiNrZFcU','GhK2i6zZlrSK9MKgWgLGYA==',0,1);
+
+insert into cliente_emp values(0,'5/UP3iKgENxLiuSJpVqKCw==','jdZL99IsxvMJ3X3o6yZXLQ==','q2bwx6TAzY92hYSPx0EdKA==','6Q+0V/HEi6QlqeKFPDBpfg==','oZ0VMmoIMRTi40lLnGEZrA==','uBVw8UCF97uFe7XQfbQxem7w/eQWqFMfb9BryrLoBls=','XX3tMPX+cgMeF7r7/cLOig==','GXOK0SzvYxTZjAl2Zkz2Zw==','cT225qm9p9rP6pr8AJ01eA==','b0xJVQgI/2HsIuDKBlb9cw==','yqV7ADErPeDY4uCX0weuJw==',1);
+insert into cliente_emp values(0,'X1fOSuUY0oNYlHwQRdL63Q==','ZlRAEisnoQ4qkns6hJlY8A==','q2bwx6TAzY92hYSPx0EdKA==','aAdDF4CnklF0IuttdhsU/A==','M8tgRRH4UG9UI4gG3ErN5A==','CaXl7ep61manqLyfJLp0SSo4F5VtTbA5L63+DTgJFDw=','1YUn8wAfcMiTYpPBBbRI7A==','iqw7Ze1bYjK6PPSXKTeDRg==','i0GRiaebQ1zNEE6Kxe/SNw==','H1GtHnXpQhCEBpJNFW2cfQ==','yqV7ADErPeDY4uCX0weuJw==',1);
+insert into cliente_emp values(0,'oFkrZ9GhahkB06U+khgXGA==','K8USQ/ITOSlxSUyB8Mkl8w==','q2bwx6TAzY92hYSPx0EdKA==','D96gKNvLPtx1BxTJZHMF1w==','oZ0VMmoIMRTi40lLnGEZrA==','h7w3I0jxekOz97HMftcO7w==','xyweBlx+pRAOX4GqNDAQhA==','1XKmW9Pcd3CO5Qz+Y6YuYg==','0cCNNB1pS8kuFlEr4CrQHA==','KjMOHg7oTOMF+m2s7X3mGw==','yqV7ADErPeDY4uCX0weuJw==',1);
+
+
+insert into evento values(0,2,8,1,1,'XwdYuB4bYiCJuX3FidKLYA==','9OK+mieVhzDgK+cfOMLVWw==','9grfFKjVFs1r/gBjSL/u4A==','pVy25LPlelSMngruRj/noQ==','PJa/Vkez6ZfyyJGuwQXG0g==','RmknhXhHHItws97XiZFs5Q==','yqV7ADErPeDY4uCX0weuJw==','CC4X9cvFVH4Tr9pir2etjaaXaXIkThsYZPurX3kMk9zhIpw6s9apdbz89JB49gA7','2017/02/15','22:00','2017/02/19','18:00',2);
+insert into ranking values(0,1,'2w9mb4YD/VVV2A3NoRFs7g==','gMcO0KKCb0sV0Hvc94u79g==');
+
+
+insert into evento values(0,1,9,2,1,'CYYjzMUfkpIoAN5L+hft9w==','9OK+mieVhzDgK+cfOMLVWw==','9OK+mieVhzDgK+cfOMLVWw==','/jf5PctDDW/Pryg4OwRpAA==','DDVVwsuzrMN7LJW3n+vR3A==','+ibhG4XFummTpzCxZ+XqpllMp7/NAd5P5y+dhvdIoJk=','yqV7ADErPeDY4uCX0weuJw==','T/WCYonu/V4M6ddX3bdaUEsVPfKuyXtSOlPjtzHru8i104xTxB+ty1Bym8Lardpo1oA8tTpaGb0G4rzhGiE4Y7HR9yIBJnHLF1X3hmPDlJKbHHXwUTh999KKFyQ/JuMN','2016/12/15','16:00','2016/12/15','22:00',2);
+insert into ingressos values(0,2,'odCGDNjFMqSzRUivnkfouw==','xvs8LUXj9wIYYg8cN8xg1w==','gMcO0KKCb0sV0Hvc94u79g==');
+insert into ranking values(0,2,'2w9mb4YD/VVV2A3NoRFs7g==','gMcO0KKCb0sV0Hvc94u79g==');
+
+
+insert into evento values(0,3,4,1,2,'tgRHek4UTzvwH6WleLpgqs8hyd0vX4iVJdWuHhUYqYI=','9OK+mieVhzDgK+cfOMLVWw==','9OK+mieVhzDgK+cfOMLVWw==','0J9vrTARCmiOy32DJXpoF/YgC/bryMJ2TA1lJTNXM3w=','LQXropEXkXORhWc+B7FzPA==','kM1Cvi94jwCTB6eXLi31Ln3cocpR7F738bq4id6EyKI=','yqV7ADErPeDY4uCX0weuJw==','CC4X9cvFVH4Tr9pir2etjaaXaXIkThsYZPurX3kMk9zhIpw6s9apdbz89JB49gA7','2017/01/29','19:00','2017/01/29','22:00',2);
+insert into ranking values(0,3,'2w9mb4YD/VVV2A3NoRFs7g==','gMcO0KKCb0sV0Hvc94u79g==');
+
+
+insert into evento values(0,5,3,2,2,'mkKoetzh+CphhVMUD6cnug==','l3wAHV11Yp3KhR+ss15JWw==','tP+Disc9M9zRQYNBKA2f4Q==','fjs4WW3Bydtxbk3W/O/PszJre2kvsA4DqLZk0pXBoDLFSgDWf2s2iFVdu/5pKFep','Eh6zO1RdhWfGqeYTiNMMug==','wSukgb6vlr/B8ooXQ392WlECjV8mw5Hfe/60dSByrDQ=','yqV7ADErPeDY4uCX0weuJw==','CC4X9cvFVH4Tr9pir2etjaaXaXIkThsYZPurX3kMk9zhIpw6s9apdbz89JB49gA7','2017/05/13','22:00','2017/05/14','01:00',2);
+insert into ingressos values(0,4,'d4QmXuXQePkpi65rv8z70A==','qQH+UKPIcGLxACeCQNJtzA==','gMcO0KKCb0sV0Hvc94u79g==');
+insert into ranking values(0,4,'2w9mb4YD/VVV2A3NoRFs7g==','gMcO0KKCb0sV0Hvc94u79g==');
+
+
+
+insert into evento values(0,10,7,2,3,'yqxQrYSAyOIUiOqMLSjVLnvD6gErg1VV30rX1YriKiw=','9OK+mieVhzDgK+cfOMLVWw==','9grfFKjVFs1r/gBjSL/u4A==','DoDpi3PdA8SeG79kdVdw4vCDZqP0vKaeaQA9oOyW29w=','YiPBTkSzptwGoqVR59bm0Q==','nCi2TjcZv4Bu1uDcEtufjIhH3vOPXtDSPvsYd0R4yuU=','yqV7ADErPeDY4uCX0weuJw==','qCMGdmqpnzgoo8UOKca2eE3lqTfLzlKUXGzjV0VEcIU/tLXiLLDZb5+TFVB4fG/t','2016/12/05','23:30','2017/12/06','02:30',2);
+insert into ingressos values(0,5,'GoczbelKxLPmF0Ia4v+f7w==','BgWHBsdD1dptgegZ1LH8eA==','gMcO0KKCb0sV0Hvc94u79g==');
+insert into ranking values(0,5,'2w9mb4YD/VVV2A3NoRFs7g==','gMcO0KKCb0sV0Hvc94u79g==');

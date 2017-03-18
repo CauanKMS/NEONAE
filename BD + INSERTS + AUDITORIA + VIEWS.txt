@@ -1,0 +1,291 @@
+drop database neonae;
+create database neonae;
+use neonae;
+
+create table tipo_usuario
+(
+id_tusu int not null auto_increment,
+tipo_tusu text not null,
+primary key(id_tusu)
+);
+create table usuario
+(
+id_usu int not null auto_increment,
+id_tusu int not null,
+nome_usu text not null,
+dtnasc_usu text not null,
+email_usu text not null,
+senha_usu text not null,
+cel_usu text,
+sx_usu text not null,
+img_usu text,
+rg_usu text,
+cpf_usu text not null,
+cep_usu text,
+numcasa_usu text,
+compl_usu text,
+pergsec_usu text,
+respsec_usu text,
+primeiraentrada_usu int,
+ativo_usu int not null,
+primary key(id_usu),
+foreign key(id_tusu) references tipo_usuario(id_tusu)
+);
+create table senhas_old
+(
+id_old int not null auto_increment,
+id_usu int not null,
+senha1_old text,
+senha2_old text,
+senha3_old text,
+data_old text,
+primary key(id_old),
+foreign key(id_usu) references usuario(id_usu)
+);
+create table cliente_emp
+( 
+id_emp int not null auto_increment,
+nome_emp text not null,
+cnpj_emp text not null,
+cep_emp text not null,
+numlocal_emp text not null,
+compl_emp text,
+email_emp text not null,
+senha_emp text not null,
+fone_emp text not null,
+cel_emp text not null,
+responsavel_emp text not null,
+img_emp text,
+ativo_emp int not null,
+primary key(id_emp)
+);
+create table status_evento
+(
+id_st int not null auto_increment,
+tipo_st text not null,
+primary key(id_st)
+);
+create table faixa_etaria
+(
+id_faet int not null auto_increment,
+descr_faet text not null,
+primary key(id_faet)
+);
+create table subtipo_evento
+(
+id_subt int not null auto_increment,
+descr_subt text not null,
+primary key(id_subt)
+);
+create table tipo_evento
+(
+id_teve int not null auto_increment,
+id_faet int not null,
+descr_teve text not null,
+primary key(id_teve),
+foreign key(id_faet) references faixa_etaria(id_faet)
+);
+create table evento
+(
+id_even int not null auto_increment,
+id_teve int not null,
+id_subt int not null,
+id_st int not null,
+id_emp int not null,
+nome_even text not null,
+uf_even text not null,
+cid_even text not null,
+rua_even text not null,
+numlocal_even text not null,
+nomelocal_even text not null,
+img_even text not null,
+detalhes_even text not null,
+startdt_even date not null,
+starthr_even time not null,
+fimdt_even date not null,
+fimhr_even time not null,
+ativo_even int not null,
+primary key(id_even),
+foreign key(id_teve) references tipo_evento(id_teve),
+foreign key(id_subt) references subtipo_evento(id_subt),
+foreign key(id_st) references status_evento(id_st),
+foreign key(id_emp) references cliente_emp(id_emp)
+);
+create table ingressos
+(
+id_ing int not null auto_increment,
+id_even int not null,
+qtddisp_ing text not null,
+precotot_ing text not null,
+qtdvend_ing text not null,
+primary key(id_ing),
+foreign key(id_even) references evento(id_even)
+);
+create table ranking
+(
+id_rank int not null auto_increment,
+id_even int not null,
+classif_rank text not null,
+qtdfav_rank text not null,
+primary key(id_rank),
+foreign key(id_even) references evento(id_even)
+);
+create table aud_usu
+(
+id_audu int not null auto_increment,
+id_usu int not null,
+tabelamod_usu text not null,
+desc_usu text not null,
+hora_usu text not null,
+data_usu text not null,
+primary key(id_audu),
+foreign key(id_usu) references usuario(id_usu)
+);
+create table aud_emp
+(
+id_aude int not null auto_increment,
+id_emp int not null,
+tabelamod_emp text not null,
+desc_emp text not null,
+hora_emp text not null,
+data_emp text not null,
+primary key(id_aude),
+foreign key(id_emp) references cliente_emp(id_emp)
+);
+create table aud_func
+(
+id_audf int not null auto_increment,
+id_func int not null,
+tabelamod_func text not null,
+desc_func text not null,
+hora_func text not null,
+data_func text not null,
+primary key(id_audf),
+foreign key(id_func) references usuario(id_usu)
+);
+create table aud_adm
+(
+id_auda int not null auto_increment,
+id_adm int not null,
+tabelamod_adm text not null,
+desc_adm text not null,
+hora_adm text not null,
+data_adm text not null,
+primary key(id_auda),
+foreign key(id_adm) references usuario(id_usu)
+);
+create table qrcode
+(
+id_qrc int not null auto_increment,
+login_qrc text not null,
+senha_qrc text not null,
+dthr_qrc time not null,
+ativo_qrc int not null,
+primary key(id_qrc)
+);
+create table fpgto
+(
+id_pgto int auto_increment,
+id_usu int not null,
+cartao_pgto text not null,
+numcartao_pgto text not null,
+dataexp_pgto text not null,
+titular_pgto text not null,
+cvv_pgto text not null,
+ativo_pgto int not null,
+primary key(id_pgto),
+foreign key(id_usu) references usuario(id_usu)
+);
+create table compra
+(
+id_buy int auto_increment,
+id_even int not null,
+id_usu int not null,
+id_pgto int not null,
+qtding_buy text not null,
+precotot_buy text not null,
+dthr_buy datetime not null,
+ativo_buy int not null,
+primary key(id_buy),
+foreign key(id_even) references evento(id_even),
+foreign key(id_usu) references usuario(id_usu),
+foreign key(id_pgto) references fpgto(id_pgto)
+);
+
+insert into tipo_usuario values(0,'Os7BbbWfyBpVCtFIdD2QkQ==');
+insert into tipo_usuario values(0,'t1lu6P0YL+VOMeMviKwYhQ==');
+insert into tipo_usuario values(0,'bKLYzCpMwLhpF6KqiVHJ6w==');
+
+insert into status_evento values(0,'pXdFLhDOxJ3YV5k4RhWtEQ==');
+insert into status_evento values(0,'N/8jYmoEYAsD38tmlHgDtg==');
+
+insert into faixa_etaria values(0,'UVhSxioaMQ+3JFWYSffeFw==');
+insert into faixa_etaria values(0,'b3Ebl3zMsAznmLc5RDa9x7IHTik/QY8o/z1dzJeBBKs=');
+
+insert into subtipo_evento values(0,'r36YB2gSVo0A2lwtuzoRoA==');
+insert into subtipo_evento values(0,'GC7npv4GZqwIrdQ0dKm5cg==');
+insert into subtipo_evento values(0,'+QXHkzohMrMV5M6YtM6RuA==');
+insert into subtipo_evento values(0,'dU0PJ7Z2+g7bNquK1rDyEQ==');
+insert into subtipo_evento values(0,'3LaO8yWV4UVD392BCJE8Pg==');
+insert into subtipo_evento values(0,'W30CNrXQthnWardbXkdESA==');
+insert into subtipo_evento values(0,'0nhJzFevrnB+XWxyMozxAw==');
+insert into subtipo_evento values(0,'Kn0wWj14+mqSyoG6iAVcoM4Pq4uen+PDKDdj36pRuGo=');
+insert into subtipo_evento values(0,'jB1CU2tr+oJleixDK0fIxg==');
+insert into subtipo_evento values(0,'7mp3IDADL8EqAvmEuXiN5A==');
+
+insert into tipo_evento values(0,1,'zYDuyXO6OQj5IMn5eO5baw==');
+insert into tipo_evento values(0,1,'hY+4EaVQp8d8Qem4UDxXYw==');
+insert into tipo_evento values(0,1,'Nee0XAj0P0WF417Y1TlxWg==');
+insert into tipo_evento values(0,2,'CbNZm2eJS/YgGV3KXcAf0w==');
+insert into tipo_evento values(0,2,'68+sDDDiGwnwvjtvQk4LgA==');
+insert into tipo_evento values(0,2,'CC+1PIfhppKAWXlgiIzUuA==');
+insert into tipo_evento values(0,1,'YdV7wn908ToR+9Usgrz6b2z8uIZt2gGR0BiD71idCMY=');
+insert into tipo_evento values(0,2,'BClFy8brMBDmRuWiVCXEFYoLh2+t65GakxgYsOjAW5yI4t8+RLy8kfWo8AoxyI4M');
+insert into tipo_evento values(0,1,'CddDg7OHv+n5YVxaab+EM8DD7brlEw6D+qv9eAukGAk=');
+insert into tipo_evento values(0,2,'imal4rU1c6LtDDR+N8HB/qqigzqPXD235vyzsL+kMzbenVKHkMcTp9GsF3q5AqVe');
+
+create or replace view login as select u.email_usu as email, u.senha_usu as senha, t.tipo_tusu as tipo_usuario from usuario u inner join tipo_usuario t on u.id_tusu=t.id_tusu;
+
+create or replace view loginEmp as select email_emp as email, senha_emp as senha from cliente_emp;
+
+create or replace view perfilfunc as select u.nome_usu as nome, u.dtnasc_usu as data, u.cel_usu as fone, u.sx_usu as sexo, u.img_usu as img, u.rg_usu as rg, u.numcasa_usu as num, u.compl_usu as compl, u.cpf_usu as cpf, u.email_usu as email from usuario u inner join tipo_usuario t on u.id_tusu=t.id_tusu where t.tipo_tusu='t1lu6P0YL+VOMeMviKwYhQ==';
+
+create or replace view verlogin as select email as email from login;
+
+create or replace view vercpf as select cpf_usu as cpf from usuario;
+
+create or replace view verloginemp as select email from loginemp;
+
+create or replace view vercnpj as select cnpj_emp as cnpj from cliente_emp;
+
+create or replace view empeventos as select e.id_even as id,e.nome_even as nome_evento, te.descr_teve as tipo, fe.descr_faet as faet, e.nomelocal_even as local, e.startdt_even as data, e.starthr_even as hora, c.email_emp as empresa from evento e inner join tipo_evento te on e.id_teve=te.id_teve inner join faixa_etaria fe on te.id_faet=fe.id_faet inner join cliente_emp c on c.id_emp=e.id_emp where e.ativo_even=2;
+
+create or replace view getidemp as select id_emp as id, email_emp as email from cliente_emp;
+
+create or replace view usueventos as select e.nome_even as nome_evento, te.descr_teve as tipo, fe.descr_faet as faixaet, c.nome_emp as empresa, e.img_even as img from evento e inner join tipo_evento te on e.id_teve=te.id_teve inner join faixa_etaria fe on te.id_faet=fe.id_faet inner join cliente_emp c on c.id_emp=e.id_emp where e.ativo_even=2;
+
+create or replace view vernomeeven as select nome_even as nome from evento;
+
+create or replace view empalteventos as select e.id_even as id,e.nome_even as nome_evento, s.tipo_st as status,te.descr_teve as tipo, se.descr_subt as subtipo,fe.descr_faet as faet, e.nomelocal_even as local, e.uf_even as uf, e.cid_even as cid, e.rua_even as rua, e.numlocal_even as num, e.img_even as img, e.detalhes_even, e.startdt_even as dt_inicio, e.starthr_even as hr_inicio, e.fimdt_even as data_final, e.fimhr_even as hr_final, c.email_emp as empresa from evento e inner join tipo_evento te on e.id_teve=te.id_teve inner join faixa_etaria fe on te.id_faet=fe.id_faet inner join cliente_emp c on c.id_emp=e.id_emp inner join status_evento s on s.id_st=e.id_st inner join subtipo_evento se on e.id_subt=se.id_subt where e.ativo_even=2; 
+
+create or replace view gerfunc as select id_usu as id, nome_usu as nome,email_usu as email, dtnasc_usu as dt, cpf_usu as cpf, cep_usu as cep from usuario where id_tusu=2;
+
+create or replace view admeventos as select e.id_even as id,e.nome_even as nome_evento, te.descr_teve as tipo, fe.descr_faet as faet, e.nomelocal_even as local, e.startdt_even as startdata, e.fimdt_even as fimdata,e.starthr_even as starthora, e.fimhr_even as fimhr, c.nome_emp as empresa from evento e inner join tipo_evento te on e.id_teve=te.id_teve inner join faixa_etaria fe on te.id_faet=fe.id_faet inner join cliente_emp c on c.id_emp=e.id_emp where e.ativo_even=1;
+
+create or replace view usueventos2 as select e.id_even as id,e.nome_even as nome_evento, te.descr_teve as tipo, se.descr_subt as subtipo, fe.descr_faet as faet, c.nome_emp as empresa, e.img_even as img, e.startdt_even as data from evento e inner join tipo_evento te on e.id_teve=te.id_teve inner join faixa_etaria fe on te.id_faet=fe.id_faet inner join cliente_emp c on c.id_emp=e.id_emp inner join subtipo_evento se on e.id_subt=se.id_subt where e.ativo_even=2;
+
+create or replace view usueventos3 as select e.id_even as id,e.nome_even as nome_evento, st.tipo_st as status,te.descr_teve as tipo, se.descr_subt as subtipo, fe.descr_faet as faet,e.uf_even as uf,e.cid_even as cid,e.rua_even as rua,e.numlocal_even as num,e.nomelocal_even as local,e.detalhes_even as detalhes, c.nome_emp as empresa, e.img_even as img, e.startdt_even as data, e.starthr_even as hora from evento e inner join tipo_evento te on e.id_teve=te.id_teve inner join faixa_etaria fe on te.id_faet=fe.id_faet inner join cliente_emp c on c.id_emp=e.id_emp inner join subtipo_evento se on e.id_subt=se.id_subt inner join status_evento st on e.id_st=st.id_st where e.ativo_even=2;
+
+create or replace view getidusu as select id_usu as id, email_usu as email from usuario;
+
+create or replace view getidevento as select id_even as id, nome_even as evento from evento;
+
+create or replace view emp_destevens as select e.img_even as img, e.nome_even as even, ce.id_emp as id_emp, r.qtdfav_rank as qtdfav from evento e inner join cliente_emp ce on e.id_emp=ce.id_emp inner join ranking r on r.id_even=e.id_even;
+
+create or replace view control_ing as select count(id_even) as qtd_even, id_emp as id from evento where ativo_even=2;
+
+create or replace view control_ing2 as select ce.id_emp as id_emp, e.nome_even as evento, i.qtddisp_ing as totaldisp, i.precotot_ing as valtotal, i.qtdvend_ing as ingvendido from evento e inner join ingressos i on i.id_even=e.id_even inner join cliente_emp ce on ce.id_emp=e.id_emp where ativo_even=2;
+
+create or replace view usu_compra as select b.id_buy as id, e.nome_even as evento, u.id_usu as idusu, b.qtding_buy as qtding, b.precotot_buy as total, b.dthr_buy as dthr, e.startdt_even as dtstart, e.fimdt_even as fimdt from compra b inner join evento e on b.id_even=e.id_even inner join usuario u on b.id_usu=u.id_usu where e.ativo_even=2 and b.ativo_buy=1;
+
+create or replace view emp_destevens2 as select e.img_even as img, e.nome_even as even, ce.id_emp as id_emp, r.qtdfav_rank as qtdfav from evento e inner join cliente_emp ce on e.id_emp=ce.id_emp inner join ranking r on r.id_even=e.id_even where e.ativo_even=2;
