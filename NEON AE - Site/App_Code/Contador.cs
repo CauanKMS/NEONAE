@@ -1,0 +1,1 @@
+﻿using System;using System.Collections.Generic;using System.Collections.Specialized;using System.Linq;using System.Net;using System.Text;using System.Threading.Tasks;using System.Web; public static class Contador{public static int erros = 1;public static int click = 0; public static int click2 = 0;}
