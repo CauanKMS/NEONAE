@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.06">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Nome do Evento:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView18" />
+
+            <TextView
+                android:id="@+id/lblNomeEven"
+                android:layout_weight="1"
+                android:layout_height="30dp"
+                android:layout_width="150dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Subtipo:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView19" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:id="@+id/lblSubtipo"
+                android:layout_weight="1"
+                android:layout_height="30dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Nome da Empresa:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView20" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:id="@+id/lblEmp"
+                android:layout_weight="1"
+                android:layout_height="30dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Tipo do Evento:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView21" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:id="@+id/lblTipoEven"
+                android:layout_weight="1"
+                android:layout_height="30dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="UF:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView22" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:id="@+id/lblUf"
+                android:layout_weight="1"
+                android:layout_height="30dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Cidade:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView23" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:id="@+id/lblCid"
+                android:layout_weight="1"
+                android:layout_height="30dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Rua:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView24" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:id="@+id/lblRua"
+                android:layout_weight="1"
+                android:layout_height="50dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Número:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView25" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:id="@+id/lblNumLocal"
+                android:layout_weight="1"
+                android:layout_height="30dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Local:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView26" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="30dp"
+                android:id="@+id/lblNomeLocal"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Detalhes:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView27" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:id="@+id/lblDetEven"
+                android:layout_weight="1"
+                android:layout_height="70dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Início:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView28" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:id="@+id/lblHrIni"
+                android:layout_weight="1"
+                android:layout_height="30dp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Término:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView29" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:id="@+id/lblHrFin"
+                android:layout_weight="1"
+                android:layout_height="30dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Data de Início:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView30" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="30dp"
+                android:id="@+id/lblDtIni"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Data de Término:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView31" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="30dp"
+                android:id="@+id/lblDtFin"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow android:layout_height="30dp"
+            android:layout_width="150dp">
+
+            <TextView
+                android:text="Status:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView33" />
+
+            <TextView
+                android:id="@+id/lblStatus"
+                android:layout_height="30dp"
+                android:layout_weight="0.20"
+                android:layout_width="150dp" />
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NeonAe</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+    <string name="lblLogin">Login</string>
+    <string name="lblSenha">Senha</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnCadastro">Cadastrar-se</string>
+    <string name="txtLogin">exemplo@exemplo.com</string>
+    <string name="txtSenha">**********</string>
+    <string name="lblNome">Nome:</string>
+    <string name="lblData">Data de Nascimento:</string>
+    <string name="lblEmail">Email</string>
+    <string name="lblEmaail">Email:</string>
+    <string name="lblSenha1">Senha:</string>
+    <string name="lblConfSenha">Confirmação de senha:</string>
+    <string name="lblSexo" />
+    <string name="lblSx">Sexo</string>
+    <string name="rdMasc">Masculino</string>
+    <string name="rdFem">Feminino</string>
+    <string name="rdOutros">Outros</string>
+    <string name="lblCpf">Cpf:</string>
+    <string name="lblInfos">Informações sobre o evento:</string>
+    <string name="txtInfo">Informações adicionais</string>
+</resources>
