@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D1FBA726-245B-4EB9-AE14-91E5275521A3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NeonAnunciosDeEventos</RootNamespace>
+    <AssemblyName>NeonAnunciosDeEventos</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mysql.data">
+      <HintPath>..\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acessos\acessoEvento.cs" />
+    <Compile Include="Acessos\acessoSenhasAntigas.cs" />
+    <Compile Include="frmTelaADMBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaADMBackup.Designer.cs">
+      <DependentUpon>frmTelaADMBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaEventoDesauto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaEventoDesauto.Designer.cs">
+      <DependentUpon>frmTelaEventoDesauto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaListaEmpUsu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaListaEmpUsu.Designer.cs">
+      <DependentUpon>frmTelaListaEmpUsu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaLoginEsqueceuSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaLoginEsqueceuSenha.Designer.cs">
+      <DependentUpon>frmTelaLoginEsqueceuSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\abstractClasse.cs" />
+    <Compile Include="Acessos\acessoADM.cs" />
+    <Compile Include="Acessos\acessoCEP.cs" />
+    <Compile Include="Acessos\acessoFunc.cs" />
+    <Compile Include="Acessos\acessoLogin.cs" />
+    <Compile Include="Acessos\acessoAuditoria.cs" />
+    <Compile Include="Classes\Conexao.cs" />
+    <Compile Include="Classes\ConexaoPrincipal.cs" />
+    <Compile Include="Classes\Criptografia.cs" />
+    <Compile Include="Classes\dadosCEP.cs" />
+    <Compile Include="Classes\Email.cs" />
+    <Compile Include="frmTelaAuditoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaAuditoria.Designer.cs">
+      <DependentUpon>frmTelaAuditoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaEvento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaEvento.Designer.cs">
+      <DependentUpon>frmTelaEvento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaADMListaFuncAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaADMListaFuncAdm.Designer.cs">
+      <DependentUpon>frmTelaADMListaFuncAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaPerfil.Designer.cs">
+      <DependentUpon>frmTelaPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaBuscaCEP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaBuscaCEP.designer.cs">
+      <DependentUpon>frmTelaBuscaCEP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaConexao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaConexao.Designer.cs">
+      <DependentUpon>frmTelaConexao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaEventosInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaEventosInfo.Designer.cs">
+      <DependentUpon>frmTelaEventosInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaFuncMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaFuncMenu.designer.cs">
+      <DependentUpon>frmTelaFuncMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaADMCadastroFuncAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaADMCadastroFuncAdm.Designer.cs">
+      <DependentUpon>frmTelaADMCadastroFuncAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaADMGerenciamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaADMGerenciamento.Designer.cs">
+      <DependentUpon>frmTelaADMGerenciamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaADMMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaADMMenu.Designer.cs">
+      <DependentUpon>frmTelaADMMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaPrimeiroADM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaPrimeiroADM.Designer.cs">
+      <DependentUpon>frmTelaPrimeiroADM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaSobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaSobre.Designer.cs">
+      <DependentUpon>frmTelaSobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaSplash.Designer.cs">
+      <DependentUpon>frmTelaSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaLogin.Designer.cs">
+      <DependentUpon>frmTelaLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaTrocarEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaTrocarEmail.Designer.cs">
+      <DependentUpon>frmTelaTrocarEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaTrocarSenhaPrimeiraEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaTrocarSenhaPrimeiraEntrada.Designer.cs">
+      <DependentUpon>frmTelaTrocarSenhaPrimeiraEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmTelaADMBackup.resx">
+      <DependentUpon>frmTelaADMBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaEventoDesauto.resx">
+      <DependentUpon>frmTelaEventoDesauto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaListaEmpUsu.resx">
+      <DependentUpon>frmTelaListaEmpUsu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaLoginEsqueceuSenha.resx">
+      <DependentUpon>frmTelaLoginEsqueceuSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaAuditoria.resx">
+      <DependentUpon>frmTelaAuditoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaEvento.resx">
+      <DependentUpon>frmTelaEvento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaADMListaFuncAdm.resx">
+      <DependentUpon>frmTelaADMListaFuncAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaPerfil.resx">
+      <DependentUpon>frmTelaPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaBuscaCEP.resx">
+      <DependentUpon>frmTelaBuscaCEP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaConexao.resx">
+      <DependentUpon>frmTelaConexao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaEventosInfo.resx">
+      <DependentUpon>frmTelaEventosInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaFuncMenu.resx">
+      <DependentUpon>frmTelaFuncMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaADMCadastroFuncAdm.resx">
+      <DependentUpon>frmTelaADMCadastroFuncAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaADMGerenciamento.resx">
+      <DependentUpon>frmTelaADMGerenciamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaLogin.resx">
+      <DependentUpon>frmTelaLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaADMMenu.resx">
+      <DependentUpon>frmTelaADMMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaPrimeiroADM.resx">
+      <DependentUpon>frmTelaPrimeiroADM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaSobre.resx">
+      <DependentUpon>frmTelaSobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaSplash.resx">
+      <DependentUpon>frmTelaSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaTrocarEmail.resx">
+      <DependentUpon>frmTelaTrocarEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaTrocarSenhaPrimeiraEntrada.resx">
+      <DependentUpon>frmTelaTrocarSenhaPrimeiraEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Backup\" />
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="img\uploaded\Backup.png" />
+    <Content Include="img\uploaded\delete2.png" />
+    <Content Include="img\uploaded\Desenvolvedores.png" />
+    <Content Include="img\uploaded\Eventos.png" />
+    <Content Include="img\uploaded\favicon2.ico" />
+    <Content Include="img\uploaded\Gerenciamento_de_FuncADM.png" />
+    <Content Include="img\uploaded\Icone_NEONAE_Menu.png" />
+    <Content Include="img\uploaded\IMG_PERFIL_ADM.png" />
+    <Content Include="img\uploaded\IMG_PERFIL_FUNC.png" />
+    <Content Include="img\uploaded\Logout.jpg" />
+    <Content Include="img\uploaded\PerfilPadrao.png" />
+    <Content Include="img\uploaded\semimagem.JPG" />
+    <Content Include="img\uploaded\telaSplash.jpg" />
+    <Content Include="img\uploaded\UpdateTela2.png" />
+    <Content Include="img\uploaded\Voltar.png" />
+    <Content Include="img\uploaded\VoltarTela.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

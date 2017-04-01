@@ -1,0 +1,629 @@
+c:\users\gustavo\documents\visual studio 2013\Projects\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+c:\users\gustavo\documents\visual studio 2013\Projects\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+c:\users\gustavo\documents\visual studio 2013\Projects\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+c:\users\gustavo\documents\visual studio 2013\Projects\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+c:\users\gustavo\documents\visual studio 2013\Projects\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+c:\users\gustavo\documents\visual studio 2013\Projects\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+c:\users\gustavo\documents\visual studio 2013\Projects\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+C:\Users\gustavo\Documents\Visual Studio 2013\Projects\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+C:\Users\gustavo\Documents\Visual Studio 2013\Projects\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaMenu.resources
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamentoFunc.resources
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmClassificação.resources
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMPesqFunc.resources
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+C:\Users\gustavo\Desktop\Escola\2016\Técnico\TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMUpdateDeleteFunc.resources
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMPesqFunc.resources
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMUpdateDeleteFunc.resources
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmClassificação.resources
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamentoFunc.resources
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+E:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMUpdateDeleteFunc.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmClassificação.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamentoFunc.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMPesqFunc.resources
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMUpdateDeleteFunc.resources
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmClassificação.resources
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamentoFunc.resources
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+F:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaFunc.resources
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMUpdateDeleteFunc.resources
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmClassificação.resources
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamentoFunc.resources
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+D:\Escola\Técnico\ah = TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaFunc.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaFunc.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamentoFunc.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaFunc.resources
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMUpdateDeleteFunc.resources
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamentoFunc.resources
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+C:\Users\ALUNOS.ETEP.EDU.BR\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMupdaDeleAdm.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMUpdaDeleFunc.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreF.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreA.resources
+C:\Users\gustavo\Desktop\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+C:\Users\gustavo\Desktop\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+C:\Users\gustavo\Desktop\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaFunc.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMupdaDeleAdm.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMUpdaDeleFunc.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamentoFunc.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreA.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreF.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+D:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaFunc.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMupdaDeleAdm.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMUpdaDeleFunc.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamentoFunc.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreA.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreF.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+E:\Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaFunc.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMupdaDeleAdm.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMUpdaDeleFunc.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamentoFunc.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreA.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreF.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaFunc.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMupdaDeleAdm.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMUpdaDeleFunc.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamentoFunc.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreA.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreF.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaUpdateFirstPassword.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaUpdateFirstPassword.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaFunc.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMupdaDeleAdm.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMUpdaDeleFunc.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamentoFunc.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreA.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreF.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaUpdateFirstPassword.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+D:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaFunc.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMupdaDeleAdm.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMUpdaDeleFunc.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaConexao.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamentoFunc.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreA.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreF.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaUpdateFirstPassword.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+E:\ \Projeto TCC\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaFunc.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMupdaDeleAdm.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMUpdaDeleFunc.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaConexao.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamentoFunc.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreA.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreF.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaUpdateFirstPassword.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+E:\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaFunc.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMupdaDeleAdm.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMUpdaDeleFunc.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaConexao.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamentoFunc.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreA.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobreF.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaUpdateFirstPassword.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+D:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMupdaDeleAdm.resources
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaConexao.resources
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaUpdateFirstPassword.resources
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamento.resources
+E:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMupdaDeleAdm.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaConexao.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamento.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaUpdateFirstPassword.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+F:\ \NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaConexao.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamento.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaConexao.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamento.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMPerfil.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMPerfil.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMAuditoria.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMAuditoria.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaTrocarEmail.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaEventosInfo.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaTrocarEmail.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaEventosInfo.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLoginEsqueceuSenha.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLoginEsqueceuSenha.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMAuditoria.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMPerfil.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaConexao.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaEventosInfo.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamento.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaTrocarEmail.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaUpdateFirstPassword.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+F:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaTrocarSenhaPrimeiraEntrada.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLoginEsqueceuSenha.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaTrocarSenhaPrimeiraEntrada.resources
+D:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBackup.resources
+E:\Nova pasta\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBackup.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+C:\Users\TEMP\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+C:\Users\TEMP\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBackup.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLoginEsqueceuSenha.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMAuditoria.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMPerfil.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaConexao.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaEventosInfo.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamento.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaTrocarEmail.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaTrocarSenhaPrimeiraEntrada.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBackup.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLoginEsqueceuSenha.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMAuditoria.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMEvento.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaADM.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMPerfil.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaConexao.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaEventosInfo.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncEventos.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamento.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncPerfil.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaTrocarEmail.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaTrocarSenhaPrimeiraEntrada.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaPrimeiroADM.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaPrimeiroADM.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLoginEsqueceuSenha.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaConexao.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaEventosInfo.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamento.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaPrimeiroADM.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaTrocarEmail.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaTrocarSenhaPrimeiraEntrada.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaListaEmpUsu.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaFuncAdm.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaEventoDesauto.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaEvento.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMBackup.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaAuditoria.resources
+D:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaPerfil.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMBackup.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaEventoDesauto.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaListaEmpUsu.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLoginEsqueceuSenha.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaAuditoria.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaEvento.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaFuncAdm.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaPerfil.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaConexao.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaEventosInfo.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamento.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaPrimeiroADM.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaTrocarEmail.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaTrocarSenhaPrimeiraEntrada.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+E:\Gustavoh\NeonAnunciosDeEventos\NeonAnunciosDeEventos\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.exe
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.pdb
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.exe
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\bin\Debug\NeonAnunciosDeEventos.pdb
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\bin\Debug\mysql.data.dll
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMBackup.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaEventoDesauto.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaListaEmpUsu.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLoginEsqueceuSenha.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaAuditoria.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaEvento.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMListaFuncAdm.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaPerfil.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaBuscaCEP.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaConexao.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaEventosInfo.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaFuncMenu.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMCadastroFuncAdm.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMGerenciamento.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaLogin.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaADMMenu.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaPrimeiroADM.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSobre.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaSplash.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaTrocarEmail.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.frmTelaTrocarSenhaPrimeiraEntrada.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.Properties.Resources.resources
+C:\Users\aluno\Desktop\NeonAnunciosDeEventos\obj\Debug\NeonAnunciosDeEventos.csproj.GenerateResource.Cache
